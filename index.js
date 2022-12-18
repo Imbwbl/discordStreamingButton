@@ -1,4 +1,4 @@
-const Discord = require('discord.js-selfbot');
+const Discord = require('./discord.js-selfbot-patched');
 
 const colors = require('colors');
 const { readFileSync } = require('fs');

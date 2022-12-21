@@ -1,1 +1,0 @@
-- discord js selfbot patched just for streaming
